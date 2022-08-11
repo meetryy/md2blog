@@ -1,5 +1,5 @@
 <?php
-	$cfgSiteTilie = "a";
+	$cfgSiteTitle = "blog";
 	$cfgUrl = "http://localhost:81/static-gen/";
 	$cfgBaseUrl = "";
 	$cfgtwitter = "";
@@ -13,4 +13,5 @@
 	$cfgTimeZone = "Europe/Moscow";
 	$cfgDateFormat = "d.m.Y";
 	$cfgTimeFormat = "H:i:s";
+	$cfgOverwrite = true;
 ?>
